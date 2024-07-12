@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdf4af81-7ab2-450d-8fc4-5c027c6780fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PetFriendsTesting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/images/P1040103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/images/cat1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/images/drako.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/images/kitti.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/images/qop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_pet_friends.py" afterDir="false" />
-    </list>
+    <list default="true" id="cdf4af81-7ab2-450d-8fc4-5c027c6780fa" name="Changes" comment="Добавление файлов" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mantest0"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mantest0/24.7.2..git",
+    "accountId": "017fcb6c-bf0f-4629-802f-a310a4379f7f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -179,6 +174,15 @@
       <option name="presentableId" value="Default" />
       <updated>1720708392841</updated>
     </task>
+    <task id="LOCAL-00001" summary="Добавление файлов">
+      <option name="closed" value="true" />
+      <created>1720821573252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720821573252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -186,5 +190,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Добавление файлов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление файлов" />
   </component>
 </project>
